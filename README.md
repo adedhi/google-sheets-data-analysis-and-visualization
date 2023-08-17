@@ -34,15 +34,17 @@ This repository contains a collection of Python scripts for analyzing and visual
 ## Usage
 1. Run any or all of the figure python files
 
-## Contributing
+------------------------------
+
+# Contributing
 Contributions to this project are welcome. Please feel free to contribute.
 
-## License
+# License
 This project is licensed under the MIT License - learn more about it [here](LICENSE).
 
-## Acknowledgements
+# Acknowledgements
 - This program was created as an assignment for the CPS412: Social Issues, Ethics and Professionalism course at Toronto Metropolitan University.
 - The data being analyzed and visualized comes from anonymous responses to a Google Forms survey
 
-## Contact
+# Contact
 If you have any questions, suggestions, or feedback, feel free to reach out to me at dadeshvir@gmail.com
