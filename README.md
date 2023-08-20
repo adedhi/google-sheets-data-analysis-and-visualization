@@ -43,7 +43,7 @@ Contributions to this project are welcome. Please feel free to contribute.
 This project is licensed under the MIT License - learn more about it [here](LICENSE).
 
 # Acknowledgements
-- This program was created as an assignment for the CPS412: Social Issues, Ethics and Professionalism course at Toronto Metropolitan University.
+- This program was created as an assignment for the CPS412: Social Issues, Ethics and Professionalism course at Toronto Metropolitan University
 - The data being analyzed and visualized comes from anonymous responses to a Google Forms survey
 
 # Contact
