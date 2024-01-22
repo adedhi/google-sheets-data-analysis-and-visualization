@@ -29,7 +29,7 @@ This repository contains a collection of Python scripts for analyzing and visual
 
 ## Installation
 1. Download the code (any or all of the figures)
-2. Install the required dependancies (pandas, Matplotlib, NumPy)
+2. Install the required dependencies (Python, pandas, Matplotlib, NumPy)
 
 ## Usage
 1. Run any or all of the figure python files
